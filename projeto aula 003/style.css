@@ -1,0 +1,110 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+.fav{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 5%;
+}
+.primeiro{
+    font-size: 40px;
+    margin: 1%;
+    color: rgb(0, 247, 255);
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.topicos{
+    font-size: 40px;
+    margin: 4%;
+    margin-top: 5%;
+    color: rgb(0, 247, 255);
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5%;
+    margin-left: 10px;
+}
+.escolhidos{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 32px;
+    padding-top: 50px;
+
+}
+
+
+.blocoartistico{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgfelp {
+    height: 280px;
+    border-radius: 15px;
+}
+.imgfelp:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+.imgescolhidos{
+    border-radius: 15px;
+}
+.imgescolhidos:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+.imgcs {
+    height: 310px;
+    border-radius: 15px;}
+
+.imgcs:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+
+.imgmice{
+    height: 360px;
+    border-radius: 15px;
+}
+
+.imgmice:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+
+.imgvelozes{
+    height: 335px;
+    border-radius: 15px;
+}
+
+.imgvelozes:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+.imgprison{
+    height: 325px;
+    border-radius: 15px;
+}
+.imgprison:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
+.imgauto{
+    height: 350px;
+    border-radius: 15px;
+}
+.imgauto:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+}
